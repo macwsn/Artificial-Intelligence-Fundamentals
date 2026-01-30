@@ -1,6 +1,6 @@
 # Artificial Intelligence Fundamentals - Laboratory Course
 
-This repository contains a series of Jupyter Notebooks developed as part of the "Artificial Intelligence Fundamentals" course. The laboratories cover a wide range of topics in Machine Learning, from basic regression models to advanced recommendation systems.
+This repository contains a series of Jupyter Notebooks developed as part of the "Artificial Intelligence Fundamentals" course from AGH UST 2026. The laboratories cover a wide range of topics in Machine Learning, from basic regression models to advanced recommendation systems.
 
 ## Project Structure
 
